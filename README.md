@@ -1,0 +1,82 @@
+# SOFTWARE TESTER PORTFOLIO - Łukasz Dudek
+
+## Table of Contents
+
+* [About me](#about-me)
+* [Skills](#skills)
+* [Tools](#tools)
+* [Soft skills](#soft-skills)
+* [Facebook and Discord groups](#facebook-and-discord-groups)
+* [Webinars](#webinars)
+* [Recommended blogs](#recommended-blogs)
+* [Projects](#projects)
+    * [SQL](#sql)
+    * [Test cases](#test-cases)
+    * [API](#api)
+    * [Automation](#automation)
+
+## About me
+
+[Your information about yourself]
+
+## Skills
+
+[List of your technical skills and certifications]
+
+## Tools
+
+* **Postman:** REST API testing platform.
+* **MySQL:** Relational database management system based on SQL.
+* **Jira:** Agile project management tool.
+* **Confluence:** Collaborative workspace for teams.
+* **Xray:** Test management tool for Jira.
+* **GitHub:** Code hosting platform for version control.
+* **Git:** Distributed version control system.
+* **BrowserStack:** Cloud-based testing platform for web and mobile apps.
+* **ScreenPal:** Screen recording and video editing tool.
+
+
+## Soft skills
+
+[List of your soft skills, such as communication, teamwork, problem-solving]
+
+## Facebook and Discord groups
+
+[List of relevant groups you are a part of]
+
+## Webinars
+
+[List of webinars you have attended or recommend]
+
+## Recommended blogs
+
+[List of blogs you follow related to your field]
+
+## Projects
+
+### SQL
+
+[Describe your SQL projects or experience]
+
+### Automation
+
+[Describe your automation projects or experience]
+
+### Test cases
+
+[Describe your experience with creating and executing test cases]
+
+### API
+
+[Describe your experience with API development or integration]
+
+#### API Project 1
+
+* **Description:** [Brief description of the project]
+* **Technologies:** [List of technologies used]
+* **Role:** [Your role in the project]
+* **Achievements:** [Highlight your contributions and results]
+
+#### API Project 2
+
+[Repeat the same structure for additional API projects]
