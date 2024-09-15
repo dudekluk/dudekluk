@@ -42,11 +42,20 @@
 
 ## Facebook and Discord groups
 
-[List of relevant groups you are a part of]
+* **Facebook:**
+  * **Testowanie oprogramowania**
+  * **Tester oprogramowania - jak nim zostać?**
+* **Discord:**
+  * **Team QualityIsland** - group led by Tomasz Stelmach
+  * **Szkolenie dla QA** - group led by Adam Gola
 
 ## Webinars
 
-[List of webinars you have attended or recommend]
+* Dlaczego Playwright?
+* Testowanie aplikacji mobilnych: Techniki, wyzwania i najlepsze praktyki
+* Testy wydajnościowe – coraz bardziej niezbędna umiejętność testera oprogramowania
+* Czy squmasz SQL? Bazy danych dla testerów oprogramowania
+* Warsztaty "Złap zajawkę na testy"
 
 ## Recommended blogs
 
