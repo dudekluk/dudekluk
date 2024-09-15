@@ -22,19 +22,25 @@
 
 ## Skills
 
-[List of your technical skills and certifications]
+* Understanding of fundamental **testing concepts and methodologies**
+* Ability to perform **REST API** testing using Postman and write simple assertions with JavaScript
+* Ability to write **SQL** queries for data validation and verification
+* Knowledge of the **ISTQB Foundation level** syllabus
+* Creating **test scenarios** and **test cases**
+* Identifying, reporting, and tracking **defects** using bug tracking tools
+* Familiarity with various **software development methodologies**
 
 ## Tools
 
-* **Postman:** REST API testing platform.
-* **MySQL:** Relational database management system based on SQL.
-* **Jira:** Agile project management tool.
-* **Confluence:** Collaborative workspace for teams.
-* **Xray:** Test management tool for Jira.
-* **GitHub:** Code hosting platform for version control.
-* **Git:** Distributed version control system.
-* **BrowserStack:** Cloud-based testing platform for web and mobile apps.
-* **ScreenPal:** Screen recording and video editing tool.
+* **Postman:** REST API testing platform
+* **MySQL:** Relational database management system based on SQL
+* **Jira:** Agile project management tool
+* **Confluence:** Collaborative workspace for teams
+* **Xray:** Test management tool for Jira
+* **GitHub:** Code hosting platform for version control
+* **Git:** Distributed version control system
+* **BrowserStack:** Cloud-based testing platform for web and mobile apps
+* **ScreenPal:** Screen recording and video editing tool
 
 
 ## Soft skills
@@ -70,7 +76,7 @@
 ## Recommended blogs
 
 
-* <a href="https://qualityisland.pl/blog/" target="_blank"><b>QualityIsland</b></a>
+* <a href="https://qualityisland.pl/blog/" target="_blank"><b>Quality Island</b></a>
 * <a href="https://jaktestowac.pl/blog/" target="_blank"><b>Jak Testować</b></a>
 * <a href="https://www.youtube.com/@PoSzklanieINaTestowanie" target="_blank"><b>Po Szklanie i na testowanie podcast youtube</b></a>
 * <a href="https://www.wyszkolewas.com.pl/blog/" target="_blank"><b>Wyszkolę Was</b></a>
