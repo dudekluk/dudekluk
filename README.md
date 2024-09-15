@@ -45,7 +45,7 @@
 
 * Zawód Tester - Radosław Smilgin
 * SQL w mgnieniu oka - Ben Forta
-* Piotr Wicherski, <a href="ksiazka.testowanieoprogramowania.pl" target="_blank"><b>Testowanie oprogramowania</b></a>
+* Piotr Wicherski, <a href="https://ksiazka.testowanieoprogramowania.pl/" target="_blank"><b>Testowanie oprogramowania</b></a>
 * ABC Testowania oprogramowania - e-book Waldemar Szafraniec, Dorota Gabor
   
 
