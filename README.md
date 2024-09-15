@@ -6,6 +6,7 @@
 * [Skills](#skills)
 * [Tools](#tools)
 * [Soft skills](#soft-skills)
+* [Books](#books)
 * [Facebook and Discord groups](#facebook-and-discord-groups)
 * [Webinars](#webinars)
 * [Recommended blogs](#recommended-blogs)
@@ -39,6 +40,14 @@
 ## Soft skills
 
 [List of your soft skills, such as communication, teamwork, problem-solving]
+
+## Books
+
+* Zawód Tester - Radosław Smilgin
+* SQL w mgnieniu oka - Ben Forta
+* Piotr Wicherski, [Testowanie oprogramowania]([https://ksiazka.testowanieoprogramowania.pl/](https://ksiazka.testowanieoprogramowania.pl/))
+* ABC Testowania oprogramowania - e-book Waldemar Szafraniec, Dorota Gabor
+
 
 ## Facebook and Discord groups
 
