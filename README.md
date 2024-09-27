@@ -21,7 +21,7 @@ My goal is to expand my testing knowledge, enhance my technical skills, and secu
 Here you'll find real-world examples of my Postman collections, API testing strategies, and my approach to writing assertions.
 
 
-### ➡[Project 2: Automation E2E with Playwright and TypeScript](https://github.com/dudekluk/Playwright) 
+### ➡[Project 2: Automation E2E testing with Playwright and TypeScript](https://github.com/dudekluk/Playwright) 
 Automation tests for a banking application using Playwright.
 
 ### ➡[Project 3: Manual Testing](https://github.com/dudekluk/Portfolio/blob/main/doc/Test%20Cases.md) 
