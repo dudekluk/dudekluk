@@ -13,13 +13,19 @@ This experience honed my **attention to detail**, **analytical thinking**, and c
 I worked on various projects, primarily focusing on web applications such as e-commerce shops and booking services, performing various forms of **manual testing** including (**functional**, **exploratory**, regression, retest, UX) on both desktop and mobile devices.
 
 
-My goal is to expand my testing knowledge, enhance my technical skills, and secure my first job in this dynamic field. Currently learning to write automated tests in **Playwright** using **TypeScript**. I am eager to expand my skills into automation testing to contribute more effectively to software quality assurance."
+My goal is to expand my testing knowledge, enhance my technical skills, and secure my first job in this dynamic field. Currently learning to write automated tests in **Playwright** using **TypeScript**. I am eager to expand my skills into automation testing to contribute more effectively to software quality assurance.
 
 <h2 id="projects">🖥 Projects</h2>
 
 ### ➡[Project 1: REST API testing with Postman](https://github.com/dudekluk/Postman) 
-Here you'll find real-world examples of my Postman collections, API testing strategies, and my approach to writing assertions.
+This project involved a comprehensive evaluation of the Trello API to ensure its functionality, performance, and reliability. By using various HTTP methods (GET, POST, PUT, DELETE), and utilizing Postman as the primary tool for creating API requests, managing collections, and analyzing responses, I effectively tested key API endpoints, validating their responses and identifying potential issues.
 
+Key Activities:
+
+- **API endpoint testing**: Thoroughly tested endpoints for retrieving, creating, updating, and deleting posts.
+- **Functional validation**: Verified that the API returned expected responses and handled different input scenarios correctly.
+- **Performance analysis**: Assessed API response times and identified potential bottlenecks.
+- **Error handling**: Evaluated the API's ability to handle errors and provide informative feedback.
 
 ### ➡[Project 2: Automation E2E testing with Playwright and TypeScript](https://github.com/dudekluk/Playwright) 
 Automation tests for a banking application using Playwright.
@@ -28,7 +34,20 @@ Automation tests for a banking application using Playwright.
 This project provides practical examples of test plan, test report, test cases, and bug reports for testing the login functionality of an e-commerce website.
 
 ### ➡[Project 4: ITFlow exploratory testing](https://github.com/dudekluk/itflow-exploratory-testing)
-This project focuses on the exploratory testing of ITFlow, an open-source web application designed for service providers. I've created a comprehensive test plan, checklists, and conducted thorough testing to identify and report bugs, contributing to the improvement of ITFlow's functionality and user experience.
+
+This project focuses on the comprehensive testing of the ITFlow open-source web application to ensure its functionality, user experience, and security. Through a combination of exploratory and manual testing, I evaluated core functionalities such as login, registration, admin panel, ticketing, and billing.
+
+Key Activities:
+
+- **Test planning**: Developed a detailed test plan outlining the scope, objectives, and testing methodologies.
+
+- **Test execution**: Conducted thorough exploratory testing across various functionalities and scenarios.
+
+- **Bug reporting**: Identified and documented critical issues, providing detailed bug reports for efficient resolution.
+
+- **Test report**: Created detailed test reports summarizing the testing activities, findings, and recommendations for improvement.
+
+By contributing to this project, I have demonstrated my ability to conduct comprehensive testing, identify and report issues, and contribute to the overall quality of the ITFlow application. All reported bugs are currently in the process of being addressed.
 
 ### ➡[Project 5: SQL](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
 
