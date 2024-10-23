@@ -40,11 +40,8 @@ This project focuses on the comprehensive testing of the ITFlow open-source web 
 Key Activities:
 
 - **Test planning**: Developed a detailed test plan outlining the scope, objectives, and testing methodologies.
-
 - **Test execution**: Conducted thorough exploratory testing across various functionalities and scenarios.
-
 - **Bug reporting**: Identified and documented critical issues, providing detailed bug reports for efficient resolution.
-
 - **Test report**: Created detailed test reports summarizing the testing activities, findings, and recommendations for improvement.
 
 By contributing to this project, I have demonstrated my ability to conduct comprehensive testing, identify and report issues, and contribute to the overall quality of the ITFlow application. All reported bugs are currently in the process of being addressed.
