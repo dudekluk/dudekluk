@@ -17,7 +17,7 @@ My goal is to expand my testing knowledge, enhance my technical skills, and secu
 
 <h2 id="projects">🖥 Projects</h2>
 
-### ➡[Project 1: REST API testing with Postman](https://github.com/dudekluk/Postman) 
+### ➡[REST API testing with Postman](https://github.com/dudekluk/Postman) 
 This project involved a comprehensive evaluation of the Trello API to ensure its functionality, performance, and reliability. By using various HTTP methods (GET, POST, PUT, DELETE), and utilizing Postman as the primary tool for creating API requests, managing collections, and analyzing responses, I effectively tested key API endpoints, validating their responses and identifying potential issues.
 
 Key Activities:
@@ -28,7 +28,16 @@ Key Activities:
 - **Error handling**: Evaluated the API's ability to handle errors and provide informative feedback.
 
 ### ➡[Project 2: Automation E2E testing with Playwright and TypeScript](https://github.com/dudekluk/Playwright) 
-Automation tests for a banking application using Playwright.
+This project focused on automating End-to-End (E2E) testing for the fictional DemoBank web application, utilizing Playwright and TypeScript. The primary objective was to comprehensively evaluate core functionalities, including login, bank transfers, report generation, and other essential features.
+
+Key Activities:
+
+- **Test automation**: Implemented automated test cases using Playwright and TypeScript to simulate user interactions and identify potential issues.
+- **POM implementation**: Developed comprehensive test cases using the Page Object Model (POM) design pattern for improved maintainability and scalability.
+- **Test cases organization**: Structured tests using the Arrange, Act, Assert (AAA) pattern to ensure clarity and effectiveness.
+- **Development tools utilization**: Used Visual Studio Code (VSCode) with extensions such as Prettier, ESLint, and Test Runner, and integrated with GitHub for streamlined version control and collaboration.
+
+
 
 ### ➡[Project 3: Manual Testing](https://github.com/dudekluk/Portfolio/blob/main/doc/Test%20Cases.md) 
 This project provides practical examples of test plan, test report, test cases, and bug reports for testing the login functionality of an e-commerce website.
