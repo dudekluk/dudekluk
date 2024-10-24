@@ -57,7 +57,7 @@ This project focused on learning and developing skills in writing test cases, sc
 Key Activities:
 
 - **Test planning**: Developed a detailed test plan outlining the testing scope, objectives, and specific test cases.
-- **Test cases design**: Created comprehensive test cases covering a wide range of user scenarios, including both positive and negative testing.
+- **Test design**: Created comprehensive test cases covering a wide range of user scenarios, including both positive and negative testing.
 - **Documentation**: Documented all test plans and cases to provide a clear reference for future testing efforts.
 
 
