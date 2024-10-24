@@ -27,7 +27,7 @@ Key Activities:
 - **Performance analysis**: Assessed API response times and identified potential bottlenecks.
 - **Error handling**: Evaluated the API's ability to handle errors and provide informative feedback.
 
-### ➡[Project 2: Automation E2E testing with Playwright and TypeScript](https://github.com/dudekluk/Playwright) 
+### ➡[Automation E2E testing with Playwright and TypeScript](https://github.com/dudekluk/Playwright) 
 This project focused on automating End-to-End (E2E) testing for the fictional DemoBank web application, utilizing Playwright and TypeScript. The primary objective was to comprehensively evaluate core functionalities, including login, bank transfers, report generation, and other essential features.
 
 Key Activities:
@@ -37,25 +37,31 @@ Key Activities:
 - **Test cases organization**: Structured tests using the Arrange, Act, Assert (AAA) pattern to ensure clarity and effectiveness.
 - **Development tools utilization**: Used Visual Studio Code (VSCode) with extensions such as Prettier, ESLint, and Test Runner, and integrated with GitHub for streamlined version control and collaboration.
 
-
-
-### ➡[Project 3: Manual Testing](https://github.com/dudekluk/Portfolio/blob/main/doc/Test%20Cases.md) 
-This project provides practical examples of test plan, test report, test cases, and bug reports for testing the login functionality of an e-commerce website.
-
-### ➡[Project 4: ITFlow exploratory testing](https://github.com/dudekluk/itflow-exploratory-testing)
+### ➡[ITFlow exploratory testing](https://github.com/dudekluk/itflow-exploratory-testing)
 
 This project focuses on the comprehensive testing of the ITFlow open-source web application to ensure its functionality, user experience, and security. Through a combination of exploratory and manual testing, I evaluated core functionalities such as login, registration, admin panel, ticketing, and billing.
 
 Key Activities:
 
-- **Test planning**: Developed a detailed test plan outlining the scope, objectives, and testing methodologies.
+- **Test planning**: Developed a detailed test plan outlining the testing scope, objectives, and testing methodologies.
 - **Test execution**: Conducted thorough exploratory testing across various functionalities and scenarios.
 - **Bug reporting**: Identified and documented critical issues, providing detailed bug reports for efficient resolution.
 - **Test report**: Created detailed test reports summarizing the testing activities, findings, and recommendations for improvement.
 
 By contributing to this project, I have demonstrated my ability to conduct comprehensive testing, identify and report issues, and contribute to the overall quality of the ITFlow application. All reported bugs are currently in the process of being addressed.
 
-### ➡[Project 5: SQL](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
+
+### ➡[Writing test cases and scenarios](https://github.com/dudekluk/Portfolio/blob/main/doc/Test%20Cases.md) 
+This project focused on learning and developing skills in writing test cases, scenarios, and test plan for an e-commerce shop, utilizing test and project management tools like Jira and Xray. By focusing on the preparation and design aspects of testing, this project enhanced my ability to create effective and organized test documentation.
+
+Key Activities:
+
+- **Test planning**: Developed a detailed test plan outlining the testing scope, objectives, and specific test cases.
+- **Test cases design**: Created comprehensive test cases covering a wide range of user scenarios, including both positive and negative testing.
+- **Documentation**: Documented all test plans and cases to provide a clear reference for future testing efforts.
+
+
+### ➡[SQL](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
 
 I have developed strong SQL skills through hands-on practice and self-study. I'm proficient in various SQL operations, including:
 * Filtering data based on multiple conditions.
