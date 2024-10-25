@@ -91,7 +91,7 @@ Here you can find examples of how I solved tasks on [SQL Practice](https://www.s
   
 <h2 id="tools">🛠️ Tools</h2>
 
-* **Postman:** API development and testing platform for crafting, sending, and inspecting HTTP/HTTPS requests.
+* **Postman:** API development and testing platform for creating, sending, and inspecting HTTP/HTTPS requests.
 * **MySQL:** Relational database management system for storing and managing structured data.
 * **Jira:** Project management tool for agile teams, enabling efficient task tracking, issue tracking, and collaboration.
 * **Confluence:** A collaborative workspace for teams to create, share, and organize knowledge in the form of pages and blogs.
