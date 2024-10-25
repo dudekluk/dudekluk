@@ -106,10 +106,10 @@ Here you can find examples of how I solved tasks on [SQL Practice](https://www.s
 
 <h2 id="soft-skills">🕵 Soft skills</h2>
 
-* Found over 80 defects testing on Test.io platform demonstrating my **attention to detail and analytical skills**
-* Strong ability to **quickly learn** new concepts and technologies, as evidenced by the successful completion of my master's degree in Information Technology
-* Demonstrated strong **teamwork** skills by collaborating effectively with team leaders and members on various testing cycles on the Test.io platform
-* **Open-minded**, embracing new ideas in both my professional career and personal life
+* **Attention to detail:** Found over 80 defects on the Test.io platform, demonstrating my attention to detail and analytical skills.
+* **Quick learner:** Strong ability to quickly learn new concepts and technologies, as evidenced by the successful completion of my Master's degree in Information Technology.
+* **Teamwork:** Demonstrated strong teamwork skills by collaborating effectively with team leaders and members on various testing cycles on the Test.io platform.
+* **Open-minded:** Embracing new ideas in both my professional career and personal life
 
 <h2 id="books">📖 Books</h2>
 
