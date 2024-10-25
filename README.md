@@ -22,20 +22,20 @@ This project involved a comprehensive evaluation of the Trello API to ensure its
 
 Key Activities:
 
-- **API endpoint testing**: Thoroughly tested endpoints for retrieving, creating, updating, and deleting posts.
-- **Functional validation**: Verified that the API returned expected responses and handled different input scenarios correctly.
-- **Performance analysis**: Assessed API response times and identified potential bottlenecks.
-- **Error handling**: Evaluated the API's ability to handle errors and provide informative feedback.
+- **API endpoint testing:** Thoroughly tested endpoints for retrieving, creating, updating, and deleting posts.
+- **Functional validation:** Verified that the API returned expected responses and handled different input scenarios correctly.
+- **Performance analysis:** Assessed API response times and identified potential bottlenecks.
+- **Error handling:** Evaluated the API's ability to handle errors and provide informative feedback.
 
 ### ➡[Automation E2E testing with Playwright and TypeScript](https://github.com/dudekluk/Playwright) 
 This project focused on automating End-to-End (E2E) testing for the fictional DemoBank web application, utilizing Playwright and TypeScript. The primary objective was to comprehensively evaluate core functionalities, including login, bank transfers, report generation, and other essential features.
 
 Key Activities:
 
-- **Test automation**: Implemented automated test cases using Playwright and TypeScript to simulate user interactions and identify potential issues.
-- **POM implementation**: Developed comprehensive test cases using the Page Object Model (POM) design pattern for improved maintainability and scalability.
-- **Test cases organization**: Structured tests using the Arrange, Act, Assert (AAA) pattern to ensure clarity and effectiveness.
-- **Development tools utilization**: Used Visual Studio Code (VSCode) with extensions such as Prettier, ESLint, and Test Runner, and integrated with GitHub for streamlined version control and collaboration.
+- **Test automation:** Implemented automated test cases using Playwright and TypeScript to simulate user interactions and identify potential issues.
+- **POM implementation:** Developed comprehensive test cases using the Page Object Model (POM) design pattern for improved maintainability and scalability.
+- **Test cases organization:** Structured tests using the Arrange, Act, Assert (AAA) pattern to ensure clarity and effectiveness.
+- **Development tools utilization:** Used Visual Studio Code (VSCode) with extensions such as Prettier, ESLint, and Test Runner, and integrated with GitHub for streamlined version control and collaboration.
 
 ### ➡[ITFlow exploratory testing](https://github.com/dudekluk/itflow-exploratory-testing)
 
@@ -43,10 +43,10 @@ This project focuses on the comprehensive testing of the ITFlow open-source web 
 
 Key Activities:
 
-- **Test planning**: Developed a detailed test plan outlining the testing scope, objectives, and testing methodologies.
-- **Test execution**: Conducted thorough exploratory testing across various functionalities and scenarios.
-- **Bug reporting**: Identified and documented critical issues, providing detailed bug reports for efficient resolution.
-- **Test report**: Created detailed test reports summarizing the testing activities, findings, and recommendations for improvement.
+- **Test planning:** Developed a detailed test plan outlining the testing scope, objectives, and testing methodologies.
+- **Test execution:** Conducted thorough exploratory testing across various functionalities and scenarios.
+- **Bug reporting:** Identified and documented critical issues, providing detailed bug reports for efficient resolution.
+- **Test report:** Created detailed test reports summarizing the testing activities, findings, and recommendations for improvement.
 
 By contributing to this project, I have demonstrated my ability to conduct comprehensive testing, identify and report issues, and contribute to the overall quality of the ITFlow application. All reported bugs are currently in the process of being addressed.
 
@@ -56,9 +56,9 @@ This project focused on learning and developing skills in writing test cases, sc
 
 Key Activities:
 
-- **Test planning**: Developed a detailed test plan outlining the testing scope, objectives, and specific test cases.
-- **Test design**: Created comprehensive test cases covering a wide range of user scenarios, including both positive and negative testing.
-- **Documentation**: Documented all test plans and cases to provide a clear reference for future testing efforts.
+- **Test planning:** Developed a detailed test plan outlining the testing scope, objectives, and specific test cases.
+- **Test design:** Created comprehensive test cases covering a wide range of user scenarios, including both positive and negative testing.
+- **Documentation:** Documented all test plans and cases to provide a clear reference for future testing efforts.
 
 
 ### ➡[SQL](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
@@ -91,18 +91,18 @@ Here you can find examples of how I solved tasks on [SQL Practice](https://www.s
   
 <h2 id="tools">🛠️ Tools</h2>
 
-* **Postman:** REST API testing platform
-* **MySQL:** Relational database management system based on SQL
-* **Jira:** Agile project management tool
-* **Confluence:** Collaborative workspace for teams
-* **Xray:** Test management tool for Jira
-* **GitHub:** Code hosting platform for version control
-* **Git:** Distributed version control system
-* **Visual Studio Code:**  code editor
-* **BrowserStack:** Cloud-based testing platform for web and mobile apps
-* **Bug Magnet:** Chrome extension for fast test data generation
-* **Chrome DevTools:** Built-in web developer tools for debugging and inspecting web pages
-* **ScreenPal:** Screen recording and video editing tool
+* **Postman:** API development and testing platform for crafting, sending, and inspecting HTTP/HTTPS requests.
+* **MySQL:** Relational database management system for storing and managing structured data.
+* **Jira:** Project management tool for agile teams, enabling efficient task tracking, issue tracking, and collaboration.
+* **Confluence:** A collaborative workspace for teams to create, share, and organize knowledge in the form of pages and blogs.
+* **Xray:** Test management tool integrated with Jira, facilitating test planning, execution, and reporting.
+* **GitHub:** Online platform for version control, collaboration, and code hosting, enabling teams to work together effectively.
+* **Git:** Distributed version control system for tracking changes in source code.
+* **Visual Studio Code:** Code editor with features for debugging, code completion, and integration with various tools and languages.
+* **BrowserStack:** Platform for testing web and mobile applications across a wide range of browsers, devices, and operating systems.
+* **Bug Magnet:** Chrome extension that automates test data generation, saving time and effort during testing.
+* **Chrome DevTools:** Tools built into Google Chrome, providing insights into website performance, debugging, and network activity.
+* **ScreenPal:** Screen recording and video editing tool for creating tutorials, demos, and other visual content.
 
 <h2 id="soft-skills">🕵 Soft skills</h2>
 
