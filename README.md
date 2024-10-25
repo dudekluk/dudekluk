@@ -95,14 +95,14 @@ Here you can find examples of how I solved tasks on [SQL Practice](https://www.s
 * **MySQL:** Relational database management system for storing and managing structured data.
 * **Jira:** Project management tool for agile teams, enabling efficient task tracking, issue tracking, and collaboration.
 * **Confluence:** A collaborative workspace for teams to create, share, and organize knowledge in the form of pages and blogs.
-* **Xray:** Test management tool integrated with Jira, facilitating test planning, execution, and reporting.
+* **Xray:** Test management tool integrated with Jira, for easier test planning, execution, and reporting.
 * **GitHub:** Online platform for version control, collaboration, and code hosting, enabling teams to work together effectively.
 * **Git:** Distributed version control system for tracking changes in source code.
 * **Visual Studio Code:** Code editor with features for debugging, code completion, and integration with various tools and languages.
 * **BrowserStack:** Platform for testing web and mobile applications across a wide range of browsers, devices, and operating systems.
 * **Bug Magnet:** Chrome extension that automates test data generation, saving time and effort during testing.
 * **Chrome DevTools:** Tools built into Google Chrome, providing insights into website performance, debugging, and network activity.
-* **ScreenPal:** Screen recording and video editing tool for creating tutorials, demos, and other visual content.
+* **ScreenPal:** Screen recording and video editing tool.
 
 <h2 id="soft-skills">🕵 Soft skills</h2>
 
