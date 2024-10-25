@@ -18,7 +18,7 @@ My goal is to expand my testing knowledge, enhance my technical skills, and secu
 <h2 id="projects">🖥 Projects</h2>
 
 ### ➡[REST API testing with Postman](https://github.com/dudekluk/Postman) 
-This project involved a comprehensive evaluation of the Trello API to ensure its functionality, performance, and reliability. By using various HTTP methods (GET, POST, PUT, DELETE), and utilizing Postman as the primary tool for creating API requests, managing collections, and analyzing responses, I effectively tested key API endpoints, validating their responses and identifying potential issues.
+This project involved a comprehensive evaluation of the Trello API to ensure its functionality, performance, and reliability. By using various HTTP methods (GET, POST, PUT, DELETE) and utilizing Postman as the primary tool for creating API requests, managing collections, and analyzing responses, I effectively tested key API endpoints, validating their responses and identifying potential issues.
 
 Key Activities:
 
@@ -62,8 +62,8 @@ Key Activities:
 
 
 ### ➡[SQL](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
+This project demonstrates my proficiency in SQL by solving various tasks on SQL Practice. The exercises covered a wide range of SQL concepts, including:
 
-I have developed strong SQL skills through hands-on practice and self-study. I'm proficient in various SQL operations, including:
 * Filtering data based on multiple conditions.
 * Using subqueries.
 * Joining related tables to combine data from multiple sources.
