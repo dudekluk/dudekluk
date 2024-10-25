@@ -80,14 +80,14 @@ Here you can find examples of how I solved tasks on [SQL Practice](https://www.s
   
 <h2 id="skills">👨‍💻 Skills</h2>
 
-* Understanding of fundamental **testing concepts and methodologies**
-* Ability to perform **REST API** testing using Postman and write assertions with JavaScript
-* Beginner knowledge of writing tests in **Playwright** using **Typescript**
-* Ability to write **SQL** queries for data validation
-* Knowledge of the **ISTQB FL** syllabus
-* Creating **test scenarios** and **test cases**
-* **Identifying**, **reporting**, and **tracking** defects using bug tracking tools
-* Familiarity with various **software development methodologies**
+* Understanding of fundamental **testing concepts and methodologies**.
+* Ability to perform **REST API** testing using Postman and write assertions with JavaScript.
+* Beginner knowledge of writing tests in **Playwright** using **Typescript**.
+* Ability to write **SQL** queries for data validation.
+* Knowledge of the **ISTQB FL** syllabus.
+* Creating **test scenarios** and **test cases**.
+* **Identifying**, **reporting**, and **tracking** defects using bug tracking tools.
+* Familiarity with various **software development methodologies**.
   
 <h2 id="tools">🛠️ Tools</h2>
 
