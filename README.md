@@ -48,18 +48,20 @@ Key Activities:
 - **Bug reporting:** Identified and documented critical issues, providing detailed bug reports for efficient resolution.
 - **Test report:** Created detailed test reports summarizing the testing activities, findings, and recommendations for improvement.
 
-By contributing to this project, I have demonstrated my ability to conduct comprehensive testing, identify and report issues, and contribute to the overall quality of the ITFlow application. All reported bugs are currently in the process of being addressed.
+Discovered **10 functional bugs, including 2 major issues**, I have demonstrated my ability to conduct comprehensive testing, identify and report issues, and contribute to the overall quality of the ITFlow application. All reported bugs are currently in the process of being addressed.
 
 
-### ➡[Writing test cases and scenarios](https://github.com/dudekluk/Portfolio/blob/main/doc/Test%20Cases.md) 
+### ➡[E-commerce manual testing based on created test cases and scenarios](https://github.com/dudekluk/Portfolio/blob/main/doc/Test%20Cases.md) 
 This project focused on learning and developing skills in writing test cases, scenarios, and test plan for an e-commerce shop, utilizing test and project management tools like Jira and Xray. By focusing on the preparation and design aspects of testing, this project enhanced my ability to create effective and organized test documentation.
 
 Key Activities:
 
 - **Test planning:** Developed a detailed test plan outlining the testing scope, objectives, and specific test cases.
 - **Test design:** Created comprehensive test cases covering a wide range of user scenarios, including both positive and negative testing.
+- **Test execution:** Conducted thorough manual testing base on test cases with adition of exploratory testing.
 - **Documentation:** Documented all test plans and cases to provide a clear reference for future testing efforts.
 
+This approach to test design and documentation resulted in the identification of **20 functional and UI/UX bugs**. These findings where send to the owner, contributing significantly to improving the overall quality and user experience of the e-commerce application.
 
 ### ➡[SQL](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
 This project demonstrates my proficiency in SQL by solving various tasks on SQL Practice. The exercises covered a wide range of SQL concepts, including:
