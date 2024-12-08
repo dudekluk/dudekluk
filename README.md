@@ -63,6 +63,18 @@ Key Activities:
 
 This approach to test design and documentation resulted in the identification of **20 functional and UI/UX bugs**. These findings where send to the owner, contributing significantly to improving the overall quality and user experience of the e-commerce application.
 
+### ➡[Accessibility WCAG audit for DoliBarr](https://github.com/dudekluk/WCAG) 
+This project focuses on conducting a comprehensive accessibility audit of the DoliBarr ERP web application to ensure compliance with the Web Content Accessibility Guidelines (WCAG) 2.2. The audit aims to identify critical accessibility issues that may hinder users, particularly those with disabilities, from effectively interacting with the application.
+
+Key Activities:
+
+- **Test execution:** Conducted thorough evaluations of various functionalities, including keyboard navigation, screen reader compatibility, and visual elements, to identify accessibility barriers.
+- **Documentation:**  Documented critical accessibility issues and provided detailed reports for each finding, highlighting the impact on user experience and compliance.
+- **Recommendations:** Offered actionable recommendations for addressing identified issues to enhance overall accessibility and user satisfaction.
+
+Throughout the audit, **26 significant accessibility issues** were identified that could affect user interaction with the DoliBarr application. Implementing the recommended changes will not only improve compliance with WCAG 2.2 standards but also foster an inclusive digital environment for all users. 
+
+
 ### ➡[SQL](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
 This project demonstrates my proficiency in SQL by solving various tasks on SQL Practice. The exercises covered a wide range of SQL concepts, including:
 
